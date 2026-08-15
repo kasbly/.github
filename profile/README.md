@@ -40,4 +40,4 @@ Built for **Arabic and English** markets, with native support for regional comme
 
 [Website](https://kasbly.com) · [X](https://x.com/kasbly_ai) · [Instagram](https://instagram.com/kasblycom) · [YouTube](https://www.youtube.com/@Kasbly) · [TikTok](https://www.tiktok.com/@kasblycom)
 
-<sub>Kasbly, LLC · Istanbul, Türkiye · <a href="https://kasbly.com">kasbly.com</a></sub>
+<sub>Kasbly, LLC — a Delaware, USA registered company · <a href="https://kasbly.com">kasbly.com</a></sub>
