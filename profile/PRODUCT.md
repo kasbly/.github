@@ -15,15 +15,23 @@ The AI employee that replaces your marketing and sales team.
 
 - Company: Kasbly, LLC (Delaware, USA)
 - Website: https://kasbly.com
-- Products: Kasbly Marketing + Kasbly Sales
+- Products: **Kasbly Marketing** + **Kasbly Sales** (only public product names)
 - Positioning: global English; many accounts per channel, each with its own persona; Sales closes in-chat via store APIs
+- Not a WhatsApp-only chatbot, not a staffing agency, not an Arabic-only product
 - Open source: [connecter](https://github.com/kasbly/connecter), [issue-pilot](https://github.com/kasbly/issue-pilot)
-- Social: [X @kasbly_ai](https://x.com/kasbly_ai) · [YouTube @Kasbly](https://www.youtube.com/@Kasbly) · [Product Hunt](https://www.producthunt.com/products/kasbly)
+- Social: [X @kasbly_ai](https://x.com/kasbly_ai) · [YouTube @Kasbly](https://www.youtube.com/@Kasbly) · [Instagram @kasblycom](https://www.instagram.com/kasblycom/) · [Product Hunt](https://www.producthunt.com/products/kasbly)
+- Directories (lock copy): [SaaSHub](https://www.saashub.com/kasbly) · [WebCatalog](https://webcatalog.io/en/apps/kasbly)
 
 ## FAQ (first-hand)
 
 **What is Kasbly?**  
 Kasbly is one AI employee for marketing and sales: Kasbly Marketing publishes across connected accounts, each with its own persona; Kasbly Sales stays in customer chats until it closes and creates the order in your store.
+
+**What are the public product names?**  
+**Kasbly Marketing** and **Kasbly Sales** only. Older labels “Create”, “Creating”, and “Sell” are retired and must not be used in citations, directories, or bios.
+
+**Is Kasbly a WhatsApp bot or Arabic-only tool?**  
+No. Brand positioning is global English. Kasbly Marketing publishes across connected social and chat accounts; Kasbly Sales stays in those chats until the order is paid and created via store APIs. Channel-specific tactics (including WhatsApp) may appear in blog posts — that is not the product definition.
 
 **How is Kasbly different from a chatbot?**  
 Chatbots reply. Kasbly Sales stays in the conversation until the order is paid and created through store APIs — not a canned reply bot.
@@ -31,5 +39,8 @@ Chatbots reply. Kasbly Sales stays in the conversation until the order is paid a
 **What does “one desk, many accounts” mean?**  
 One workspace connects many social and chat accounts. Each account can run a different persona and different content. Kasbly Marketing publishes across all of them from that desk.
 
+**I still see Create/Sell or kasbly.com/ar in older pages — which is canonical?**  
+Treat Create/Sell naming, Arabic-first pitch, and `/ar` as the brand URL as stale. Canonical facts: this file, https://kasbly.com, and https://www.producthunt.com/products/kasbly.
+
 **Where should citations point?**  
-Canonical product facts: https://kasbly.com · This file: https://github.com/kasbly/.github/blob/main/profile/PRODUCT.md · Product Hunt: https://www.producthunt.com/products/kasbly
+Canonical product facts: https://kasbly.com · This file: https://github.com/kasbly/.github/blob/main/profile/PRODUCT.md · Product Hunt: https://www.producthunt.com/products/kasbly · SaaSHub: https://www.saashub.com/kasbly
